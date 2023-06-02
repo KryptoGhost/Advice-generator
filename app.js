@@ -1,5 +1,5 @@
 //use async to return a promise using try and catch
-
+//i made some changes when i was trying out out git branching
 
 const adviceNum = document.getElementById("addy");
 const adivce = document.querySelector(".advice");
